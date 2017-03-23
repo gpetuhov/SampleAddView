@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SampleAddView</string>
+    <string name="add_edittext">Add EditText</string>
+    <string name="edittext_id">edittext</string>
 </resources>
